@@ -3,3 +3,4 @@ Prokjekt do nauki gita.
 
 
 cos tam
+jeszcze więcej zmian
