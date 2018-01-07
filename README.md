@@ -1,8 +1,9 @@
 # Git Nauka
-Prokjekt do nauki gita.
-
-
-cos tam
-jeszcze więcej zmian
+Prokjekt do nauki gita
 
 podyplomówka
+
+zmiana
+zmiana
+zmiana
+zmiana
