@@ -1,7 +1,7 @@
 
 
 na root (komenda su)
-# yum install bash-completion bash-completion-extras
+"# yum install bash-completion bash-completion-extras"
 powrot na usera ctrl+d
 utw plik:
 atom ~/.bashrc
